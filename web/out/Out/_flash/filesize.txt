@@ -1,0 +1,19 @@
+autorun.inf|34
+config_Out.bin|11256
+images_Out.zip|37411
+multilanguage\english.zip|22
+multilanguage\france.zip|22
+multilanguage\german.zip|22
+multilanguage\italy.zip|22
+multilanguage\japanese.zip|22
+multilanguage\spanish.zip|22
+Out.html|1150
+resources_Out.zip|831
+scene\1.jpg|5992630
+scene\1_hs.zip|3176
+scene\img_1884 panorama.jpg|20922565
+scene\img_1970 panorama.jpg|21732936
+scene\img_2200 panorama.jpg|11938937
+swfobject.js|6880
+Tourweaver_Out.html|2331
+twviewer.swf|147619
